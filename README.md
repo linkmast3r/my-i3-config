@@ -17,3 +17,7 @@ mis archivos de configuración de i3 wm
 - discord
 - spotify
 - flameshot
+
+### Capturas
+
+![]
