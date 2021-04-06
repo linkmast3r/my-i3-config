@@ -18,7 +18,9 @@ mis archivos de configuración de i3 wm
 - spotify
 - flameshot
 
-# Capturas
+# Pantalla main
 
 ![screenshot.png](https://raw.githubusercontent.com/antonchu2006/my-i3-config/main/screenshot.png)
+
+# Pantalla secundaria
 ![screenshot2.png](https://raw.githubusercontent.com/antonchu2006/my-i3-config/main/screenshot2.png)
