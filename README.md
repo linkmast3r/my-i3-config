@@ -18,6 +18,7 @@ mis archivos de configuración de i3 wm
 - spotify
 - flameshot
 
-### Capturas
+# Capturas
 
 ![screenshot.png](https://raw.githubusercontent.com/antonchu2006/my-i3-config/main/screenshot.png)
+![screenshot2.png](https://raw.githubusercontent.com/antonchu2006/my-i3-config/main/screenshot2.png)
