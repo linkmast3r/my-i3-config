@@ -20,4 +20,4 @@ mis archivos de configuración de i3 wm
 
 ### Capturas
 
-![]
+![mi escritorio uwu.png]
