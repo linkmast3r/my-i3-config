@@ -20,4 +20,4 @@ mis archivos de configuración de i3 wm
 
 ### Capturas
 
-![mi escritorio uwu.png]
+![screenshot.png](https://raw.githubusercontent.com/antonchu2006/my-i3-config/main/screenshot.png)
