@@ -40,7 +40,7 @@ markup=none
 # The type defaults to "mem" if the instance is not specified.
 [spotify]
 label=
-command=/home/anton/.config/i3blocks/scripts/spotify.py
+command=/home/ant0n/.config/i3blocks/scripts/spotify.py
 color=#81b71a
 interval=20
 
@@ -81,7 +81,8 @@ interval=60
 separator=true
 
 [HTB]
-command=/home/anton/.config/i3blocks/scripts/HTB.sh
+label= 
+command=/home/ant0n/.config/i3blocks/scripts/HTB.sh
 interval=60
 color=#b8f9c2
 separator=true
@@ -94,7 +95,7 @@ interval=60
 separator=true
 
 #[ip]
-#command=/home/anton/.config/i3blocks/scripts/ip.sh
+#command=/home/ant0n/.config/i3blocks/scripts/ip.sh
 #interval=10
 #separator=true
 #color=#00FF00
@@ -105,10 +106,10 @@ separator=true
 # The script may be called with -w and -c switches to specify thresholds,
 # see the script for details.
 [cpu_usage]
-label=  ﬙
+label=﬙
 color=#b193ee 
 interval=10
-min_width=CPU: 100.00%
+min_width=﬙ 100.0%
 separator=true
 
 #[load_average]
